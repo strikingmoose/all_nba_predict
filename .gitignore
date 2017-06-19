@@ -1,1 +1,22 @@
 # Add any directories, files, or patterns you don't want to be tracked by version control
+notebook/.ipynb_checkpoints
+notebook/Unt*
+infrastructure
+images
+.idea
+boto_test.py
+constants.py
+scrape_bballref_data.py
+test.py
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+bball_ref_obj.pyc
+constants.pyc
+images/
+infrastructure/
+notebook/.ipynb_checkpoints/Untitled4-checkpoint.ipynb
+notebook/Untitled4.ipynb
+notebook/xgboost.model
